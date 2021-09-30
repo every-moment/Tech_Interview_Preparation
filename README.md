@@ -10,7 +10,15 @@
 ### 기록
 |  | 주제 | 간단한 요약 |  기간 |  링크 |
 |-------|-------|----------------------|-------|-------|
-|이승주 | 인터뷰 준비 | 기술면접을 위한 준비 | 2021-09-30 ~ ING  | <a href="-" target="_blank">내용 링크</a>|
-| 민율  | 인터뷰 준비 | 기술면접을 위한 준비  | 2021-09-21 ~ ING  | <a href="https://github.com/every-moment/Tech_Interview_Preparation/tree/main/%EB%AF%BC%EC%9C%A8">정리된 공간</a> |
+|이승주 | 인터뷰 준비 | 기술면접을 위한 준비 | 2021-09-30 ~ ING  | <a href="https://github.com/inju2403">Github</a>|
+| 민율  | 인터뷰 준비 | 기술면접을 위한 준비  | 2021-09-21 ~ ING  | <a href="https://github.com/minyul">Github</a> |    
+
+
+
+---
+
+
+
+### [데이터베이스](https://github.com/every-moment/Tech_Interview_Preparation/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
 
 
