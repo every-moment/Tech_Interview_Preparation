@@ -7,7 +7,7 @@
 
 
 ### 데이터베이스 Lock의 종류 및 각 Lock에 대한 설명을 해보시오.    
-
+</br>
 Lock의 종류에는 Shared Lock, Exclusive Lock이 있다.    
     
 1) Shared Lock    
@@ -23,7 +23,7 @@ Exclusive Lock이 끝날 때 까지 '어떠한' 접근도 허용되지 않는다
 
 
 ### 데이터베이스 Blocking 이 무엇이며 어떠한 경우에 발생하는 것이며 해결하기 위한 방법을 설명하시오.    
-          
+</br>          
 Blocking은 Lock들의 경합(Race Condition)이 발생하여 특정 세션이 작업을 진행하지 못하고 멈춰선 상태를 의미한다.    
 Shared Lock과 Exclusive Lock 혹은 Exclusive Lock과 Exclusive Lock끼리 Blocking이 발생할 수 있다. 이를 해결하는 방안은 Transaction commit 혹은 rollback뿐이다.    
     
@@ -38,7 +38,7 @@ Blocking을 줄이기 위한 방법
 
 
 ### 데이터베이스 Dead Lock 이 무엇이며 해결하기 위한 방법을 설명하시오.    
-    
+</br>    
 Dead Lock(교착상태)는 두 개 이상의 트랜잭션이 각각 Lock을 설정하고 상대의 Lock을 획득하려고 할 때, 서로의 Lock이 해제되는 것을 무한정 기다리는 상태를 말한다.   
     
 교착상태를 해결하기 위한 방법은 크게 3가지가 있다.    
