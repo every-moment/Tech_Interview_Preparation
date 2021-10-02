@@ -51,4 +51,16 @@ Async & Blocking에 대해 알아보자. 위에서 살펴본 바와 같이 Async
 > Blocking과 Non-Blocking의 관심사는 '제어권의 반환'. 제어권을 즉시 반환하면 Non-Blocking, 그렇지 않으면 Blocking    
 > Sync와 Async의 관심사는 호출된 함수의 '작업 완료를 기다리는지'에 대한 여부. 작업 완료를 기다리면 Sync, 그렇지 않으면 Async    
 
+---
 
+### UDP, TCP, IP 에 대해서 설명하시오. 그리고 차이점을 설명하시오.
+
+---
+
+### Request Header, Response Header 에 대해서 아는 대로 쓰시오. (요청헤더, 응답헤더) 
+
+---
+
+### DNS 에 대해서 설명하시오.
+
+---
