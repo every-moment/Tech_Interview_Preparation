@@ -11,7 +11,7 @@
 |  | 주제 | 간단한 요약 |  기간 |  링크 |
 |-------|-------|----------------------|-------|-------|
 |이승주 | 인터뷰 준비 | 기술면접을 위한 준비 | 2021-09-30 ~ ING  | <a href="https://github.com/inju2403">Github</a>|
-| 민율  | 인터뷰 준비 | 기술면접을 위한 준비  | 2021-09-21 ~ ING  | <a href="https://github.com/minyul">Github</a> |    
+| 민율  | 인터뷰 준비 | 기술면접을 위한 준비  | 2021-11-01 ~ ING  | <a href="https://github.com/minyul">Github</a> |    
 
 
 
