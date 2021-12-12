@@ -73,6 +73,37 @@ TCP와 UDP는 모두 전송 계층에서 사용되는 프로토콜이다. 전송
 > - 비교적 데이터의 신뢰성이 중요하지 않을 때 사용된다. 주로 실시간 방송과 온라인 게임에서 UDP가 사용된다.     
 
 ---
+### REST API
+
+REST API란 REST를 기반으로 만들어진 API         
+API는 어떠한 응용프로그램에서 데이터를 주고 받기 위한 방법
+</br>
+
+REST란
+ - HTTP URI(Uniform Resource Identifier)를 통해 자원(Resource)을 명시하고, HTTP Method(POST, GET, PUT, DELETE)를 통해 해당 자원에 대한 CRUD Operation을 적용하는 것을 의미한다.    
+ - REST는 기본적으로 웹의 기존 기술과 HTTP 프로토콜을 그대로 활용하기 때문에 웹의 장점을 최대한 활용할 수 있는 아키텍처 스타일이다
+ - 즉, REST는 자원 기반의 구조(ROA, Resource Oriented Architecture) 설계의 중심에 Resource가 있고 HTTP Method를 통해 Resource를 처리하도록 설계된 아키텍쳐를 의미한다.
+</br> 
+
+REST API 중심 규칙
+ - 1. URI는 정보의 자원을 표현해야 한다. (리소스명은 동사보다는 명사를 사용)
+ - 2. 자원에 대한 행위는 HTTP Method(GET, POST, PUT, DELETE 등)로 표현
+</br>
+
+URI 설계 시 주의할 점
+ - 1. 슬래시 구분자(/)는 계층 관계를 나타내는 데 사용
+ - 2. URI 마지막 문자로 슬래시(/)를 포함하지 않는다.
+ - 3. 하이픈(-)은 URI 가독성을 높이는데 사용 & 언더바(_)는 URI에 사용하지 않는다.
+ - 4. URI 경로에는 소문자가 적합하다. 대문자 사용은 피해야 한다.
+ - 5. 파일 확장자는 URI에 포함시키지 않는다.  Accept header를 사용하도록 하자.
+</br>
+
+URI vs URL
+ - URI: Uniform Resource Identifier의 약자로 인터넷상 포현할수 있는 모든 리소스를 의미
+ - URL: Uniform Resource Locator의 약자로 URI에서 네트워크상 경로, 어떤 자원의 위치에 대한 절대경로값
+</br>
+
+---
 
 ### Request Header, Response Header 에 대해서 아는 대로 쓰시오. (요청헤더, 응답헤더) 
 
