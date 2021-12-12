@@ -1,9 +1,7 @@
 # 🐼 네트워크
 
 
-### Blocking vs Non-Blocking, Sync vs Async 에 대해서 각각 연관성 있게 설명하시오.
-
----
+## Blocking vs Non-Blocking, Sync vs Async 에 대해서 각각 연관성 있게 설명하시오.
 
 많이 들어본 용어들이지만 상당히 헷갈리는 개념들이다. 얼핏 보기에 Sync와 Blocking이 비슷하고, Async와 Non-Blocking이 비슷한 것 같다.   
 </br>
@@ -50,12 +48,10 @@ Async & Blocking에 대해 알아보자. 위에서 살펴본 바와 같이 Async
 ### 마무리
 > - Blocking과 Non-Blocking의 관심사는 '제어권의 반환'. 제어권을 즉시 반환하면 Non-Blocking, 그렇지 않으면 Blocking    
 > - Sync와 Async의 관심사는 호출된 함수의 '작업 완료를 기다리는지'에 대한 여부. 작업 완료를 기다리면 Sync, 그렇지 않으면 Async    
+</br>
 
----
+## TCP, UDP에 대해서 설명하시오. 그리고 차이점을 설명하시오.
 
-### TCP, UDP에 대해서 설명하시오. 그리고 차이점을 설명하시오.
-
----
 TCP와 UDP는 모두 전송 계층에서 사용되는 프로토콜이다. 전송 계층에서는 데이터를 포트번호에 해당하는 프로세스에 전달하는 것을 담당한다.    
 </br>     
 
@@ -71,12 +67,9 @@ TCP와 UDP는 모두 전송 계층에서 사용되는 프로토콜이다. 전송
 > - TCP보다 신뢰성은 떨어지지만, 전송 속도가 일반적으로 빠르다. TCP처럼 Connection을 연결하지 않고 Connectionless 상태로 통신을 한다.     
 > - TCP의 특징인 순차 전송, 흐름제어, 혼잡제어를 보장하지 않는다.     
 > - 비교적 데이터의 신뢰성이 중요하지 않을 때 사용된다. 주로 실시간 방송과 온라인 게임에서 UDP가 사용된다.     
+</br>
 
----
-
-### REST API
-
----
+## REST API
 
 REST API란 REST를 기반으로 만들어진 API         
 API는 어떠한 응용프로그램에서 데이터를 주고 받기 위한 방법
@@ -106,15 +99,8 @@ URI vs URL
  - URL: Uniform Resource Locator의 약자로 URI에서 네트워크상 경로, 어떤 자원의 위치에 대한 절대경로값
 </br>
 
----
+## Request Header, Response Header 에 대해서 아는 대로 쓰시오. (요청헤더, 응답헤더) 
 
-### Request Header, Response Header 에 대해서 아는 대로 쓰시오. (요청헤더, 응답헤더) 
+</br>
 
----
-
-
----
-
-### DNS 에 대해서 설명하시오.
-
----
+## DNS 에 대해서 설명하시오.
