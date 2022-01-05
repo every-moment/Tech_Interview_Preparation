@@ -105,6 +105,8 @@ URI vs URL
 
 ## Request Header, Response Header 에 대해서 아는 대로 쓰시오. (요청헤더, 응답헤더) 
 
+[질문에 대한 정리 : Http - Response Request](https://velog.io/@minyul/Http-Response-Request)
+
 </br>
 
 ## DNS 에 대해서 설명하시오.
