@@ -11,7 +11,7 @@
 |  | 주제 | 간단한 요약 |  기간 |  링크 |
 |-------|-------|----------------------|-------|-------|
 |이승주 | CS 공부 | 토양을 다지기 위한 CS 공부 | 2021-12-13 ~ ING  | <a href="https://github.com/inju2403">Github</a>|
-| 민율  | 인터뷰 준비 | 기술면접을 위한 준비  | 2021-12-20 ~ ING  | <a href="https://github.com/minyul">Github</a> |    
+| 민율  | CS 공부 | 토양을 다지기 위한 CS 공부  | 2021-12-20 ~ ING  | <a href="https://github.com/minyul">Github</a> |    
 
 
 
